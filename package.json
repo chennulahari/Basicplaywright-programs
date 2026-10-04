@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "basicplaywright",
+=======
+  "name": "datadrivenframeworks",
+>>>>>>> c59393c (Added data driven framework programs)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,8 +14,13 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.63.0",
+<<<<<<< HEAD
     "@types/node": "^22.20.2",
     "@types/pg": "^8.23.1"
+=======
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+>>>>>>> c59393c (Added data driven framework programs)
   },
   "dependencies": {
     "excel": "^1.0.1",
